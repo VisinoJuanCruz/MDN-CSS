@@ -1,0 +1,2 @@
+https://developer.mozilla.org/en-US/docs/Web/CSS/gradient
+Pagina para degradado: https://cssgradient.io/

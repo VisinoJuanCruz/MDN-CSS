@@ -1,0 +1,3 @@
+Fuentes y tipografias: https://developer.mozilla.org/es/docs/Learn/CSS/Styling_text/Fundamentals
+Estilos a listas: https://developer.mozilla.org/es/docs/Learn/CSS/Styling_text/Styling_lists
+links: https://developer.mozilla.org/es/docs/Learn/CSS/Styling_text/Styling_links

@@ -1,0 +1,107 @@
+ General setup */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  word-spacing: 1px;
+  font-size: 10px;
+  margin: 0 auto;
+  min-width: 1000px;
+  max-width: 1400px;
+}
+
+/* Layout */
+
+section {
+  float: left;
+  width: 50%;
+}
+
+aside {
+  float: left;
+  width: 30%;
+}
+
+aside ul{
+  list-style: square;
+  
+  
+}
+aside ul li{
+  margin-bottom: 5px;
+  
+  
+}
+
+
+
+nav {
+  float: left;
+  width: 20%;
+}
+
+footer {
+  clear: both;
+}
+
+h2 + p{
+margin-left:20px;
+}
+
+header, section, aside, nav, footer {
+  padding: 20px;
+}
+
+/* header and footer */
+
+header, footer {
+  border-top: 5px solid #a66;
+  border-bottom: 5px solid #a66;
+}
+h1{
+letter-spacing:5px;
+	text-align:center;
+}
+
+a {
+  color:red;
+}
+
+
+nav ul{
+  padding: 0;
+  width: 100%;
+  
+}
+
+
+
+nav ul li{
+  padding:0px;
+	font-size:15px;
+	text-align:center;
+	margin-bottom: 10px;
+	border: 2px solid red;
+  list-style:none;
+  
+}
+nav li a{
+  
+  display: inline;
+  width:100%;
+}
+
+nav li a:link {
+  text-decoration: none;
+  display:block;
+  text-align: center;
+}
+  nav li a:active {
+  background-color: black;
+    color:white;
+}
+}
+
+
